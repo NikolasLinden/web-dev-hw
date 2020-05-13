@@ -1,0 +1,6 @@
+Nikolas Linden
+
+1. Data travels through the internet through the routers that it connects to. It's sent through them in packets that are read and pieced back together wherever it is sent/received.
+2. A DNS is responsible for holding, translating, and finding IP Addresses. The DNS can hold the address in its local cashe and translate it, or can find whatever IP address you are looking for within it's connection of servers
+3. A cookie is a locally saved piece of data usually from a website that contains information relating to the user or the website, for example something the user entered onto said website
+4. Protocol, Domain Name, and Path
