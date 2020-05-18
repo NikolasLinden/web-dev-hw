@@ -1,16 +1,6 @@
-# assignment-02
+# assignment-03
 ## Nikolas Linden
 
-I decided to take this class because I have some understanding about web design, but I want to learn more. It's important to a good understanding about how systems like the web works if you're going to be working with people who's job requires it in the future. If I can't understand what they're doing, then I won't be able to relate it to my own job very well.
-
-
-
-- I hope to learn more about coding in this class to solidify my knowledge about it
-- I hope to learn the overlying process of creating a website
-- I hope to learn how to properly design the look of a website, so whatever I websites I might add to or make doesn't look like an absolute mess
-
-[Achievement Hunter Videos](https://roosterteeth.com/channel/achievement-hunter)
-
-[My Responses Txt](./responses.txt)
-
-![Assignment Screenshot](./images/assignment-2.png)
+1. A browser is a piece of software used to access the world wide web. It retrieves information from the web to display in the software
+2. Markup language is a language/system used to change what is displayed. It adds elements/tags that provide extra meaning for the web browser to structure the display with
+![Assignment-03](./Images/assignment-03.PNG)
