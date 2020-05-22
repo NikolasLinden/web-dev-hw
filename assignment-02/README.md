@@ -13,4 +13,4 @@ I decided to take this class because I have some understanding about web design,
 
 [My Responses Txt](./responses.txt)
 
-![Assignment Screenshot](./images/assignment-2.png)
+![Assignment Screenshot](./images/assignment-2.PNG)
