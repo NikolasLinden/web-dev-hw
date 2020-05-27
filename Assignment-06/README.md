@@ -1,0 +1,3 @@
+1. I've come across a ton, but one of the main ones is a password login. They serve to recognize a user and to provide access to further in the site.
+2. One place all three is in the review of online purchase. You can rate how you liked the service/item with a selection like in a star format, provide a description about the item, and submit that with a button.
+3. I actually found this a little easier this time, though it took me a little longer since my focus has been pretty much shot since the weekend. My cycle was work on this for a few minutes, then go do other homework or something else before returning.
