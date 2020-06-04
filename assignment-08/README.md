@@ -1,0 +1,3 @@
+1. My experience for html was a little rough, but I did enjoy it. It was a good challenge, and I learned quite a bit.
+2. I'm a little anxious, seeing that CSS seems to just build off of an already complicated topic for me, but I am looking forwards to seeing just how complicated a website can be made and if I'm up for the task.
+3. My work cycle was a few hours working on this straight, a break to go to the store, flip a table (in a good way), and take the pictures I needed to before working another few hours on this. This assignment was essentially piecing together what I knew and finding ways to really solidify them together, so a lot was experimentation.
