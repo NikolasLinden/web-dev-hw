@@ -1,0 +1,19 @@
+
+h1 {
+  color: solid black;
+  opacity: 50%
+}
+* {
+  font-family: calibri;
+
+  background-color: Gray;
+}
+.design {
+  text-align: center;
+  /*will this look funny centered? Might be for future me to fix*/
+  border: 5px solid;
+  border-color: blue;
+  color: lightblue;
+  width: 70%;
+
+}
