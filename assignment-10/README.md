@@ -1,0 +1,3 @@
+1. System Fonts are the built in fonts that computers typically use. Web Fonts are fonts that are loaded through a link from a page. Web-Safe Fonts are fonts that can typically be loaded by any computer as a fall back should an intended font fail to loaded.
+2. In case a font cannot load, it'll default to one that a computer can almost always use so the text can still be displayed and read by the user.
+3. My work cycle for this was about an hour straight of work until I needed a question answered, and then I had to wait to upload since moodle was apparently down and my README didn't save originally.
