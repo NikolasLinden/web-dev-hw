@@ -1,0 +1,36 @@
+
+* {
+
+  background-color: Gray;
+  line-height: 18px
+
+}
+.Title {
+  border: 5px solid;
+  width: 70%;
+  padding: 8px
+}
+#chapter {
+  font-weight: bolder;
+  font-size: 20pt;
+}
+.excerpt {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 12pt;
+  border: 5px solid;
+  border-color: black;
+  color: black;
+  width: 70%;
+  padding: 8px
+
+
+
+
+}
+p:first-of-type::first-line{
+  font-family: 'Metal Mania', cursive;
+}
+.link:hover{
+  color: darkred;
+  font-size: 14pt
+}
